@@ -15,3 +15,5 @@
  
  Big O gösterimi:
  O(n*log(n))
+ 
+# www.patika.dev
